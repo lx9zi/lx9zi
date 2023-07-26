@@ -1,5 +1,5 @@
-![logo](./file:///C:/Users/Lx9zi/Desktop/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
+![logo](https://github.com/lx9zi/lx9zi/blob/main/github-header-image.png)
+
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 <img width="300" align="right" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"/>
 
